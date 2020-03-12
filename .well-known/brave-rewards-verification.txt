@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kubusiowo.cf
+Token: 51e4a334a98f02b0045086cd4275981e61f6f82b354725c72301fa526bdaa5ad
